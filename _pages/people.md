@@ -9,7 +9,7 @@
 - [**Golnar Gharooni Fard**](http://ggfard.com) PhD student, Computer Science (in collaboration with Orit Peleg).
 - [**Jim Meiss**](http://amath.colorado.edu/faculty/jdm/) Professor, Applied Mathematics.
 - [**Corey Murphey**](https://clmurphey.github.io/) PhD student, Computer Science (in collaboration with Jed Brown and Allison Hilger).
-- [**Orit Peleg**](https://www.colorado.edu/biofrontiers/orit-peleg) Assistant Professor, Computer Science.
+- [**Orit Peleg**](https://www.colorado.edu/biofrontiers/orit-peleg) Associate Professor, Computer Science.
 
 <h2> Graduate/Postgraduate Research Alumni </h2>
 
